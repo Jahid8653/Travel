@@ -1,0 +1,30 @@
+.reg{
+    /* margin-left: 300px;
+    margin-right: 300px; */
+    background-image: linear-gradient(rgb(83, 209, 79), rgb(243, 87, 26));
+    /* margin-top: auto;
+    margin-left: auto;
+    margin-right: auto; */
+    width: 500px;
+    height: auto;
+    margin-top: -25px;
+    padding: 30px 50px;
+    margin-left: 320px;
+
+}
+
+.Text{
+    color: blue;
+    
+}
+
+.jah{
+    background-image: linear-gradient(rgb(144, 219, 238), rgb(216, 31, 145));
+    height: 600px;
+}
+
+.ireg{
+    margin-top: 10px;
+    margin-left: 160px;
+    background-image: linear-gradient(-15deg,rgb(0, 0, 0),rgb(0, 121, 177));
+}

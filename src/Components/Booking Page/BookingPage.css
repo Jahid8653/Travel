@@ -1,0 +1,29 @@
+.iform{
+    background-image: linear-gradient(-15deg,rgb(236, 195, 208),rgb(127, 127, 177));
+    /* background-color: bisque; */
+    margin-top: -24px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.form2{
+    color: rgb(255, 255, 255);
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 40px;
+}
+
+.bkng{
+    color: antiquewhite;
+}
+
+.ibtn10{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 240px;
+    width: 100px;
+}
+
+.iText{
+    color: brown;
+}

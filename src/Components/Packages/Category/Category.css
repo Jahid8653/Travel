@@ -1,0 +1,50 @@
+/* .Cat{
+    text-align: center;
+    background-color: darkcyan;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 40px;
+    margin-top: -24px;
+}
+
+.pack{
+    border: 2px solid rgb(251, 255, 3);
+    margin: auto;
+    width: 60%;
+    background-color: burlywood
+} */
+
+.card-body{
+    text-align: center;
+    
+    
+}
+
+.lop
+{
+    margin: auto;
+    margin-top: -24px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: darkgoldenrod;
+    padding-bottom: 120px;
+}
+
+.g-4{
+    margin: auto !important;
+    /* margin-left: 80px; */
+
+}
+
+.ict0{
+    margin-left: 50px;
+}
+
+.ct{
+    color: crimson;
+}
+
+.iview{
+    background-image: linear-gradient(-15deg,rgb(0, 0, 0),rgb(0, 121, 177));
+  box-shadow: 0px 2px 2px 0px;
+}

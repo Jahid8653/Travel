@@ -1,0 +1,226 @@
+{
+    "packages": [
+        {
+            "pack_name": "East India",
+            "sub_pack": [
+                {
+                    "t_place": "Sundarban",
+                    "price": 12999,
+                    "days": "2D & 1N",
+                    "sub_desc": "Visit Sundarban with exiting offer",
+                    "p_image": "../../../../../image/Sundarban.jpg"
+                },
+                {
+                    "t_place": "Kolkata",
+                    "price": 15999,
+                    "days": "4D & 3N",
+                    "sub_desc": "Visit Kolkata with exiting offer",
+                    "p_image": "../../../../../image/Kolkata.jpg"
+                },
+                {
+                    "t_place": "Darjeeling",
+                    "price": 14999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Darjeeling with exiting offer",
+                    "p_image": "../../../../../image/Darjeeling.jpg"
+                },
+                {
+                    "t_place": "Puri",
+                    "price": 13999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Puri with exiting offer",
+                    "p_image": "../../../../../image/Puri.jpg"
+                }
+            ]
+        },
+        {
+            "pack_name": "West India",
+            "sub_pack": [
+                {
+                    "t_place": "Pune",
+                    "price": 13999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Pune with exiting offer",
+                    "p_image": "../../../../../image/Pune.png"
+                },
+                {
+                    "t_place": "Mumbai",
+                    "price": 19999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Mumbai with exiting offer",
+                    "p_image": "../../../../../image/Mumbai.jpg"
+                },
+                {
+                    "t_place": "Gujrat",
+                    "price": 15999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Gujrat with exiting offer",
+                    "p_image": "../../../../../image/Gujrat.jpg"
+                },
+                {
+                    "t_place": "Goa",
+                    "price": 17999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Goa with exiting offer",
+                    "p_image": "../../../../../image/Goa.jpg"
+                }
+            ]
+        },
+        {
+            "pack_name": "South India",
+            "sub_pack": [
+                {
+                    "t_place": "Chennai",
+                    "price": 13999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Chennai with exiting offer",
+                    "p_image": "../../../../../image/Chennai.jpg"
+                },
+                {
+                    "t_place": "Bengalore",
+                    "price": 15999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Bengalore with exiting offer",
+                    "p_image": "../../../../../image/Blr.jpg"
+                },
+                {
+                    "t_place": "Ooty",
+                    "price": 18999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Ooty with exiting offer",
+                    "p_image": "../../../../../image/Ooty.jpg"
+                },
+                {
+                    "t_place": "Kerala",
+                    "price": 19999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Kerala with exiting offer",
+                    "p_image": "../../../../../image/Kerala.jpg"
+                }
+            ]
+        },
+        {
+            "pack_name": "North India",
+            "sub_pack": [
+                {
+                    "t_place": "Jammu & Kashmir",
+                    "price": 24999,
+                    "days": "4D & 3N",
+                    "sub_desc": "Visit Jammu & Kashmir with exiting offer",
+                    "p_image": "../../../../../image/J&K.jpg"
+                },
+                {
+                    "t_place": "Ladakh",
+                    "price": 23999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Ladakh with exiting offer",
+                    "p_image": "../../../../../image/Ladakh.jpg"
+                },
+                {
+                    "t_place": "Taj Mahal",
+                    "price": 15999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Taj Mahal with exiting offer",
+                    "p_image": "../../../../../image/Taj Mahal.jpg"
+                },
+                {
+                    "t_place": "Delhi",
+                    "price": 17999,
+                    "days": "3D & 2N",
+                    "sub_desc": "Visit Delhi with exiting offer",
+                    "p_image": "../../../../../image/Delhi.jpg"
+                }
+            ]
+        },
+        {
+                "pack_name": "International",
+                "sub_pack": [
+                    {
+                        "t_place": "Dubai",
+                        "price": 49999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Dubai with exiting offer",
+                        "p_image": "../../../../../image/Dubai.jpg"
+                    },
+                    {
+                        "t_place": "Greece",
+                        "price": 59999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Greece with exiting offer",
+                        "p_image": "../../../../../image/Greece.jpg"
+                    },
+                    {
+                        "t_place": "Krabi",
+                        "price": 39999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Krabi with exiting offer",
+                        "p_image": "../../../../../image/Krabi.jpg"
+                    },
+                    {
+                        "t_place": "Lucerne",
+                        "price": 39999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Lucerne with exiting offer",
+                        "p_image": "../../../../../image/Lucerne.jpg"
+                    },
+                    {
+                        "t_place": "Mauritius",
+                        "price": 49999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Mauritius with exiting offer",
+                        "p_image": "../../../../../image/Mauritius.jpg"
+                    },
+                    {
+                        "t_place": "Paris",
+                        "price": 89999,
+                        "days": "5D & 4N",
+                        "sub_desc": "Visit Paris with exiting offer",
+                        "p_image": "../../../../../image/Paris.jpg"
+                    },
+                    {
+                        "t_place": "Thailand",
+                        "price": 69999,
+                        "days": "5D & 4N",
+                        "sub_desc": "Visit Thailand with exiting offer",
+                        "p_image": "../../../../../image/Thailand.jpg"
+                    },
+                    {
+                        "t_place": "Malaysia",
+                        "price": 59999,
+                        "days": "5D & 4N",
+                        "sub_desc": "Visit Malaysia with exiting offer",
+                        "p_image": "../../../../../image/Malaysia.jpg"
+                    },
+                    {
+                        "t_place": "Maldive",
+                        "price": 54999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Maldive with exiting offer",
+                        "p_image": "../../../../../image/Maldive.jpg"
+                    },
+                    {
+                        "t_place": "Singapore",
+                        "price": 89999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Singapore with exiting offer",
+                        "p_image": "../../../../../image/Singapore.jpg"
+                    },
+                    {
+                        "t_place": "Bali",
+                        "price": 39999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Bali with exiting offer",
+                        "p_image": "../../../../../image/Bali.jpg"
+                    },
+                    {
+                        "t_place": "Bangkok",
+                        "price": 79999,
+                        "days": "4D & 3N",
+                        "sub_desc": "Visit Bangkok with exiting offer",
+                        "p_image": "../../../../../image/Bangkok.jpg"
+                    }
+
+                ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+h4, h6{
+    color: orange;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.WT, .WT3, .WT4, .WT5{
+    height: 200px;
+    width: 400px;
+    float: right;
+    margin-top: -160px;
+    margin-right: 60px;
+    
+}
+
+.WT2, .WT4{
+    float: left;
+    height: 200px;
+    width: 400px;
+    margin-top: -160px;
+    margin-left: 60px;
+}
+
+h2{
+    color: rgb(29, 0, 158);
+    margin-left: 10px;
+}
+
+.Pol, .Pol2{
+    text-align: right;
+    margin-right: 10px;
+}
